@@ -1,0 +1,14 @@
+#menu .sub-menu {
+ position: absolute;
+ left: 250px;
+ top: 0;
+}
+#menu .sub-menu {
+ position: absolute;
+ left: 250px;
+ top: 0;
+ display: none;
+}
+#menu li:hover .sub-menu {
+ display: block;
+}
